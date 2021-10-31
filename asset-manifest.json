@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lxrcrs/static/css/main.7c36bd9c.chunk.css",
+    "main.js": "/lxrcrs/static/js/main.ea3f59a1.chunk.js",
+    "main.js.map": "/lxrcrs/static/js/main.ea3f59a1.chunk.js.map",
+    "runtime-main.js": "/lxrcrs/static/js/runtime-main.ad7bfb4a.js",
+    "runtime-main.js.map": "/lxrcrs/static/js/runtime-main.ad7bfb4a.js.map",
+    "static/js/2.1d569ac0.chunk.js": "/lxrcrs/static/js/2.1d569ac0.chunk.js",
+    "static/js/2.1d569ac0.chunk.js.map": "/lxrcrs/static/js/2.1d569ac0.chunk.js.map",
+    "index.html": "/lxrcrs/index.html",
+    "static/css/main.7c36bd9c.chunk.css.map": "/lxrcrs/static/css/main.7c36bd9c.chunk.css.map",
+    "static/js/2.1d569ac0.chunk.js.LICENSE.txt": "/lxrcrs/static/js/2.1d569ac0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/lxrcrs/static/media/img-8.b874f76c.jpg",
+    "static/media/HeroSection.css": "/lxrcrs/static/media/img-home.64a3a81f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad7bfb4a.js",
+    "static/js/2.1d569ac0.chunk.js",
+    "static/css/main.7c36bd9c.chunk.css",
+    "static/js/main.ea3f59a1.chunk.js"
+  ]
+}
