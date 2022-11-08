@@ -27,6 +27,10 @@
 
 .products {
   background-image: url("assets/images/img-1.jpg");
+
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
